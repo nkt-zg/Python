@@ -23,4 +23,4 @@ def napravi_png(visina, sirina, podaci):
 pisi_datoteku('nmpngns.png', napravi_png(1,1,struct.pack("!h", 0)))
 
 
-#NKT
+#nt5
